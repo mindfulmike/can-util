@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.3.8"></a>
+## [3.3.8](https://github.com/canjs/can-util/compare/v3.3.2...v3.3.8) (2018-04-27)
+
+
+### Bug Fixes
+
+* pin dependencies ([40ee90a](https://github.com/canjs/can-util/commit/40ee90a))
+
+
+
 <a name="3.3.7"></a>
 ## [3.3.7](https://github.com/canjs/can-util/compare/v3.3.2...v3.3.7) (2018-04-27)
 
